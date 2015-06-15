@@ -1,0 +1,30 @@
+{
+	"name": "ZumoAdal",
+	"private": true,
+	"dependencies": {
+		"angular": "latest",
+		"adal-angular": "latest"
+	},
+	"main": "./lib/zumo-adal.js",
+	"moduleType": [
+		"node"
+	],
+	"keywords": [
+		"adal",
+		"azure",
+		"mobile",
+		"service"
+	],
+	"licenses": [
+		{
+		  "type": "Apache 2.0",
+		  "url": "http://www.apache.org/licenses/LICENSE-2.0"
+		}
+	],
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"dependencies"
+	]
+}
